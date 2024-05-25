@@ -1,0 +1,15 @@
+/* styles.css */
+.div-titulo {
+    background-color: #cecece;
+    padding: 20px; /* Espaçamento interno para melhor visualização */
+}
+
+h1 {
+    font-size: 24px;
+    color: #e37b0397; /* Cor do texto do título */
+}
+
+p {
+    font-size: 16px;
+    color: #a7a3a3; /* Cor do texto da descrição */
+}
